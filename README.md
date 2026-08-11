@@ -1,3 +1,6 @@
+## Learn more 
+Hi team, i have remove the node modules for taking too much time to push to git
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
